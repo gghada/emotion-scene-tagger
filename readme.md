@@ -30,7 +30,7 @@ You can add or modify sample transcripts directly in the script or place them in
 
 ### Dependencies
 
--`transformers`
--`torch`
+- `transformers`
+- `torch`
 
 These are listed in `requirements.txt` for easy installation.
