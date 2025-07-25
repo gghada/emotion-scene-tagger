@@ -1,0 +1,7 @@
+Agent: Hello, thank you for calling StreamNet. How can I help you today?
+Customer: I’ve had it with your service! My internet cuts out every single evening.
+Agent: I'm sorry you're experiencing this. Let me take a look at your connection history.
+Customer: This is the third time I’m calling this month!
+Agent: I understand your frustration. I’ll escalate this to our network team and have a technician contact you within 24 hours.
+Customer: Fine. I just want it fixed.
+Agent: Absolutely. Thank you for your patience.

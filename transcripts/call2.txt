@@ -1,0 +1,7 @@
+Agent: Hi! I’m calling from FreshBite to check if you’re interested in trying our meal kits.
+Customer: Oh yes, I’ve actually heard great things!
+Agent: That’s wonderful! We’re offering 30% off on your first order.
+Customer: Sounds great. How do I sign up?
+Agent: I can send you a signup link right now. It only takes a minute.
+Customer: Perfect, I’ll look out for it.
+Agent: Great speaking with you!

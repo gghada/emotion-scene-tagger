@@ -1,0 +1,7 @@
+Agent: Thank you for contacting EcoHome. How may I assist you?
+Customer: Hi, I saw your new line of smart thermostats. Can you tell me the difference between the Basic and Pro models?
+Agent: Absolutely. The Pro model includes WiFi connectivity and learning features.
+Customer: Oh, that’s useful. And what’s the warranty?
+Agent: Both come with a 2-year warranty.
+Customer: Great, thanks for the info.
+Agent: My pleasure!

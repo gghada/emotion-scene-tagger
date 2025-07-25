@@ -1,0 +1,7 @@
+Agent: Good afternoon, you’ve reached HomeSecure. How may I assist you?
+Customer: I’m not sure if my alarm is working. It keeps beeping for no reason.
+Agent: That could be a low battery or a sensor error. Can I get your account number?
+Customer: Hold on... okay, it’s 45892.
+Agent: Got it. I’ll guide you through a quick reset. Let’s start by opening the panel.
+Customer: Okay, I see the panel.
+Agent: Great. Now press and hold the reset button...

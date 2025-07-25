@@ -1,0 +1,5 @@
+Agent: Hello, welcome to SoftTech support. What can I help you with today?
+Customer: Hi, I have a question about your subscription plans.
+Agent: Sure, what would you like to know?
+Customer: Do you offer any student discounts?
+Agent: Yes, we do—

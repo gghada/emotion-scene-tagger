@@ -1,0 +1,7 @@
+Agent: Hello, this is Grace from City Health Clinic. Is this Mr. Ali?
+Customer: Yes, speaking.
+Agent: Just calling to confirm your appointment for Monday at 9 a.m.
+Customer: Oh, thank you! I completely forgot.
+Agent: No worries. Do you need directions or help with anything?
+Customer: No, I think I’m good. Thanks again.
+Agent: You're welcome. See you Monday!

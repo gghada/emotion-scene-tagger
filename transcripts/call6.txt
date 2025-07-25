@@ -1,0 +1,6 @@
+Agent: Welcome to PrintEase support. How can I help?
+Customer: My printer won’t connect. I’ve tried everything.
+Agent: I can help with that. Is it showing any lights or error codes?
+Customer: It just blinks red. I don’t have time for this.
+Agent: Let’s try resetting the network settings. It only takes a minute.
+Customer: Fine. Go ahead.
